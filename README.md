@@ -1,6 +1,9 @@
 ![](https://github.com/apivideo/API_OAS_file/blob/master/apivideo_banner.png)
 # api.video NodeJS SDK
 
+
+## DEPRECATION WARNING: this SDK will soon be **deprecated** and will no longer be maintained. It has been replaced by the **[NodeJS API client](https://github.com/apivideo/nodejs-api-client)**. Please use it instead.
+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ApiVideo/nodejs-sdk/badges/quality-score.png?b=master&s=93531b005797e4b690cdbbe8459be0f75f1f3e6f)](https://scrutinizer-ci.com/g/ApiVideo/nodejs-sdk/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/ApiVideo/nodejs-sdk/badges/build.png?b=master&s=e01c30ae25aa2b0472299c1d961faf67e48bda65)](https://scrutinizer-ci.com/g/ApiVideo/nodejs-sdk/build-status/master)
 
